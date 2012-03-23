@@ -3,7 +3,7 @@ Bullshit.js is a best-of-breed, mission-critical open source JavaScript bookmark
 For more information, add to bookmarks and visit the following web address:
 
 ```js
-javascript:(function(){var d=document,s=d.createElement('script');s.src='//raw.github.com/mourner/bullshit.js/master/bullshit.js';d.body.appendChild(s);}())
+javascript:(function(){var d=document,s=d.createElement('script');s.src='https://raw.github.com/mourner/bullshit.js/master/bullshit.js';d.body.appendChild(s);}())
 ```
 
 P.S. Happily accepting pull requests! The term list needs some serious editing and cleanup.
