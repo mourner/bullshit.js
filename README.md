@@ -3,5 +3,5 @@ Bullshit.js is a best-of-breed, mission-critical open source JavaScript bookmark
 For more information, visit the following page:
 
 ```js
-javascript:(function(){var d=document,s=d.createElement('script');s.src='//raw.github.com/mourner/bullshit-js/master/bullshit.js';d.body.appendChild(s);}())
+javascript:(function(){var d=document,s=d.createElement('script');s.src='//raw.github.com/mourner/bullshit.js/master/bullshit.js';d.body.appendChild(s);}())
 ```
