@@ -645,9 +645,9 @@ window.findAndReplaceDOMText = (function() {
 			bullshit += 'ing';
 		}
 		var abbr = document.createElement("abbr");
-		abbr.setAttribute("style","color:red");
-		abbr.title=term;
-		abbr.innerHTML=bullshit;
+		abbr.setAttribute("style", "color:red");
+		abbr.title = term;
+		abbr.innerHTML = bullshit;
 		return abbr;
 	}
 
