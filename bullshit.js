@@ -204,7 +204,7 @@
 		'on the (?:back end|radar screen|same page)',
 		'one to one',
         'OOP',
-        '(?:object|aspect|role|subject)-oriented',
+        '(?:object|aspect|role|subject).oriented',
 		'opportunit(?:y|ies)',
 		'optimization',
 		'out.of.the.(?:box|loop)',
