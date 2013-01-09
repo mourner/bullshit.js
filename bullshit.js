@@ -644,8 +644,11 @@ window.findAndReplaceDOMText = (function() {
 		if (term.substr(term.length - 3) === 'ing') {
 			bullshit += 'ing';
 		}
-
-		return '<abbr style="color: red" title="' + term + '">' + bullshit + '</abbr>';
+		var abbr = document.createElement("abbr");
+		abbr.setAttribute("style","color:red");
+		abbr.title=term;
+		abbr.innerHTML=bullshit;
+		return abbr;
 	}
 
 	var re = new RegExp('(' + bullshits.join('|') + ')(?!\\w|[^<]*>)', 'gi'),
