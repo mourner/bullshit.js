@@ -401,7 +401,7 @@ window.findAndReplaceDOMText = (function() {
 		'focused',
 		'followup',
 		'foot view',
-		'(?:front.?end|ui)?.?frame.?work',
+		'(?:front.?end.|ui.)?frame.?work',
 		'front lines',
 		'functional',
 		'full benefit',
