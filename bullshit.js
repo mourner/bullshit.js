@@ -202,6 +202,8 @@
 		'on board',
 		'on the (?:back end|radar screen|same page)',
 		'one to one',
+        'OOP',
+        '(?:(?:O|o)bject|(?:A|a)spect|(?:R|r)ole|(?:S|s)ubject)-oriented',
 		'opportunit(?:y|ies)',
 		'optimization',
 		'out.of.the.(?:box|loop)',
