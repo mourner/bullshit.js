@@ -232,6 +232,7 @@
 		'profit',
 		'promotional collateral',
 		'promotion',
+        'proprietary',
 		'proof.of.concept',
 		'prototype',
 		'push the envelope',
