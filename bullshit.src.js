@@ -291,7 +291,7 @@ window.findAndReplaceDOMText = (function() {
 var bullshitTerms = [
     '(market|goal|community|quality|results|sales|user|customer' +
         '|subject|role|service|client|process|business)' +
-        '.(centric(ity)?)|facing|oriented|driven|focused|assessment|service)',
+        '.((centric(ity)?)|facing|oriented|driven|focused|assessment|service)',
     '24/7',
     'a-b testing',
     'accessib(le|ility)',
@@ -604,22 +604,26 @@ var bullshitTerms = [
     'web (2|3)\\.0'
 ];
 
+
 function revealBullshit(term) {
+
     var c = term.charAt(0),
         bullshit = (c === c.toUpperCase() ? 'B' : 'b') + 'ullshit';
 
     if (term.substr(term.length - 3) === 'ing') {
         bullshit += 'ing';
     }
+
     var abbr = document.createElement("abbr");
-    abbr.setAttribute("style", "color:red");
+    abbr.style.color = 'red';
     abbr.title = term;
     abbr.innerHTML = bullshit;
+
     return abbr;
 }
 
-findAndReplaceDOMText(
-        new RegExp('(' + bullshitTerms.join('|') + ')(?!\\w|[^<]*>)', 'gi'),
-        document.body, revealBullshit);
+var bullshitRe = new RegExp('(' + bullshitTerms.join('|') + ')(?!\\w|[^<]*>)', 'gi');
+
+findAndReplaceDOMText(bullshitRe, document.body, revealBullshit);
 
 }(this));
