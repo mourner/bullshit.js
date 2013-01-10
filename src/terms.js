@@ -1,7 +1,7 @@
 var bullshitTerms = [
     '(market|goal|community|quality|results|sales|user|customer' +
         '|subject|role|service|client|process|business)' +
-        '.(centric(ity)?)|facing|oriented|driven|focused|assessment|service)',
+        '.(centric(ity)?|facing|oriented|driven|focused|assessment|service)',
     '24/7',
     'a-b testing',
     'accessib(le|ility)',
