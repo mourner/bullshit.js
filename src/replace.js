@@ -2,10 +2,17 @@
 function revealBullshit(term) {
 
     var c = term.charAt(0),
-        bullshit = (c === c.toUpperCase() ? 'B' : 'b') + 'ullshit';
+        bullshit = (c === c.toUpperCase() ? 'B' : 'b') + 'ullshit',
+        last = term.length - 1;
 
-    if (term.substr(term.length - 3) === 'ing') {
-        bullshit += 'ing';
+    if (term.substr(last - 2) === 'ing') {
+        bullshit += 'ting';
+    }
+    if (term.charAt(last - 1) !== 's' && term.charAt(last) === 's') {
+        bullshit += 's';
+    }
+    if (term.charAt(last - 2) !== 'e' && term.substr(last - 1) === 'ed') {
+        bullshit += 'ted';
     }
 
     var abbr = document.createElement("abbr");

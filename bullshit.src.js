@@ -1,5 +1,5 @@
 /*
- Bullshit.js v0.1 (2013-01-10)
+ Bullshit.js v0.1 (2013-01-11)
  https://github.com/mourner/bullshit.js
  (c) 2013 Vladimir Agafonkin, MIT License
 */
@@ -291,7 +291,7 @@ window.findAndReplaceDOMText = (function() {
 var bullshitTerms = [
     '(market|goal|community|quality|results|sales|user|customer' +
         '|subject|role|service|client|process|business)' +
-        '.(centric(ity)?)|facing|oriented|driven|focused|assessment|service)',
+        '.(centric(ity)?|facing|oriented|driven|focused|assessment|service)',
     '24/7',
     'a-b testing',
     'accessib(le|ility)',
@@ -344,6 +344,7 @@ var bullshitTerms = [
     'core competenc(y|ies)',
     'cost-effective',
     'cost/benefit',
+    'cost control',
     'craftsmanship',
     'critical path',
     'crm',
@@ -382,6 +383,8 @@ var bullshitTerms = [
     'exceed expectations',
     'expectations',
     'experiences',
+    'experts?',
+    'expertise',
     'exposure',
     'eyeballs',
     'facilitat(e|or)',
@@ -414,10 +417,12 @@ var bullshitTerms = [
     'high.level',
     '(high|mass).impact',
     'impactful',
+    'impeccable',
     'implementation',
     'in a nutshell',
     'incent',
     'incentivize',
+    'increase the odds',
     'innovat(e|ed|ion|ive|ing)',
     'integrat(e|ed|ion)',
     'internet of things',
@@ -468,6 +473,7 @@ var bullshitTerms = [
     'one to one',
     'opportunit(y|ies)',
     '(search engine )?optimization',
+    'optimal',
     'out(side)?.of.the.(box|loop)',
     'outsourc(e|ed|ing)',
     '(total cost of )?ownership',
@@ -489,6 +495,7 @@ var bullshitTerms = [
     'profit(ability)?',
     'promotion',
     'promotional collateral',
+    'prominent',
     'proprietary',
     'proof.of.concept',
     'push the envelope',
@@ -539,12 +546,12 @@ var bullshitTerms = [
     'soup to nuts',
     'sow',
     'stakeholder',
-    'startup',
+    'start.up?',
     'statement of work',
     'sticky-?ness',
     'strateg(y|ic|ize)',
     'streamline',
-    'success',
+    'success(ful)?',
     'sustainab(le|ility)',
     'synerg(y|ies)',
     'tailwinds?',
@@ -604,22 +611,33 @@ var bullshitTerms = [
     'web (2|3)\\.0'
 ];
 
-function revealBullshit(term) {
-    var c = term.charAt(0),
-        bullshit = (c === c.toUpperCase() ? 'B' : 'b') + 'ullshit';
 
-    if (term.substr(term.length - 3) === 'ing') {
-        bullshit += 'ing';
+function revealBullshit(term) {
+
+    var c = term.charAt(0),
+        bullshit = (c === c.toUpperCase() ? 'B' : 'b') + 'ullshit',
+        last = term.length - 1;
+
+    if (term.substr(last - 2) === 'ing') {
+        bullshit += 'ting';
     }
+    if (term.charAt(last - 1) !== 's' && term.charAt(last) === 's') {
+        bullshit += 's';
+    }
+    if (term.charAt(last - 2) !== 'e' && term.substr(last - 1) === 'ed') {
+        bullshit += 'ted';
+    }
+
     var abbr = document.createElement("abbr");
-    abbr.setAttribute("style", "color:red");
+    abbr.style.color = 'red';
     abbr.title = term;
     abbr.innerHTML = bullshit;
+
     return abbr;
 }
 
-findAndReplaceDOMText(
-        new RegExp('(' + bullshitTerms.join('|') + ')(?!\\w|[^<]*>)', 'gi'),
-        document.body, revealBullshit);
+var bullshitRe = new RegExp('(' + bullshitTerms.join('|') + ')(?!\\w|[^<]*>)', 'gi');
+
+findAndReplaceDOMText(bullshitRe, document.body, revealBullshit);
 
 }(this));
