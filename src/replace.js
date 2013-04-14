@@ -1,4 +1,3 @@
-
 function revealBullshit(term) {
 
     var c = term.charAt(0),
@@ -13,6 +12,12 @@ function revealBullshit(term) {
     }
     if (term.charAt(last - 2) !== 'e' && term.substr(last - 1) === 'ed') {
         bullshit += 'ted';
+    }
+    if (term.charAt(last - 2) !== 'o' && term.substr(last - 1) === 'or') {
+        bullshit += 'ter';
+    }
+    if (term.charAt(last - 2) !== 'e' && term.substr(last - 1) === 'er') {
+        bullshit += 'ter';
     }
 
     var abbr = document.createElement("abbr");
