@@ -423,7 +423,7 @@ var bullshitTerms = [
     'incent',
     'incentivize',
     'increase the odds',
-    'innovat(e|ed|ion|ive|ing)',
+    'innovat(e|ed|ion|ive|ing|or)',
     'integrat(e|ed|ion)',
     'internet of things',
     'intellectual property',
@@ -626,6 +626,9 @@ function revealBullshit(term) {
     }
     if (term.charAt(last - 2) !== 'e' && term.substr(last - 1) === 'ed') {
         bullshit += 'ted';
+    }
+    if (term.charAt(last - 2) !== ('o' || 'e') && term.substr(last - 1) === ('or' || 'er')) {
+        bullshit += 'ter';
     }
 
     var abbr = document.createElement("abbr");

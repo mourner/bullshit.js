@@ -133,7 +133,7 @@ var bullshitTerms = [
     'incent',
     'incentivize',
     'increase the odds',
-    'innovat(e|ed|ion|ive|ing)',
+    'innovat(e|ed|ion|ive|ing|or)',
     'inspir(e|ing|ation)',
     'integrat(e|ed|ion)',
     'internet of things',
