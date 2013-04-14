@@ -13,10 +13,7 @@ function revealBullshit(term) {
     if (term.charAt(last - 2) !== 'e' && term.substr(last - 1) === 'ed') {
         bullshit += 'ted';
     }
-    if (term.charAt(last - 2) !== 'o' && term.substr(last - 1) === 'or') {
-        bullshit += 'ter';
-    }
-    if (term.charAt(last - 2) !== 'e' && term.substr(last - 1) === 'er') {
+    if (term.charAt(last - 2) !== ('o' || 'e') && term.substr(last - 1) === ('or' || 'er')) {
         bullshit += 'ter';
     }
 
