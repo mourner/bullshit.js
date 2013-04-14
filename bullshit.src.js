@@ -630,9 +630,6 @@ function revealBullshit(term) {
     if (term.charAt(last - 2) !== ('o' || 'e') && term.substr(last - 1) === ('or' || 'er')) {
         bullshit += 'ter';
     }
-    if (term.charAt(last - 3) !== ('o' || 'e') && term.substr(last - 2) === ('ors' || 'ers')) {
-        bullshit += 'ters';
-    }
 
     var abbr = document.createElement("abbr");
     abbr.style.color = 'red';
