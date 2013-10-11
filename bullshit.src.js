@@ -357,6 +357,7 @@ var bullshitTerms = [
     'deliverables?',
     'demographic',
     'discovery',
+    'disrupt(ive)?',
     'diversity',
     'downsize',
     'drill down',
