@@ -321,6 +321,7 @@ var bullshitTerms = [
     'wow.factor',
 
     // technical bullshit
+    'api',
     'cloud',
     '(object|aspect).oriented',
     '(framework|platform).agnostic',
