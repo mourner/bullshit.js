@@ -3,7 +3,7 @@ Bullshit.js is a best-of-breed, mission-critical enterprise JavaScript bookmarkl
 To use it, add the following address as a bookmark and click on it when you're on any page that needs translation.
 
 ```js
-javascript:(function(){var d=document,s=d.createElement('script');s.src='https://raw.github.com/mourner/bullshit.js/master/bullshit.js';d.body.appendChild(s);}())
+javascript:(function(){var d=document,s=d.createElement('script');s.src='https://rawgithub.com/mourner/bullshit.js/master/bullshit.js';d.body.appendChild(s);}())
 ```
 
 P.S. Happily accepting pull requests!
