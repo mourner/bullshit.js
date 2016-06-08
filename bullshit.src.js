@@ -378,7 +378,7 @@ var bullshitTerms = [
     'engage',
     'enhance',
     'enterprise',
-    'eta',
+    '\beta\b',
     'etched in stone',
     'exceed expectations',
     'expectations',
