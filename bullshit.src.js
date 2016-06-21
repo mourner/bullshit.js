@@ -542,7 +542,7 @@ var bullshitTerms = [
     'skill sets?',
     'smoke (&|and) mirrors',
     'social(.media|.gaming|.networks?)',
-    'solutions?',
+    '\bsolutions?',
     'soup to nuts',
     'sow',
     'stakeholder',
