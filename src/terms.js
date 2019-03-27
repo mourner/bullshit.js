@@ -14,6 +14,7 @@ var bullshitTerms = [
     'assets?',
     'authoritative',
     'automated',
+    'award.winning',
     'b2b',
     'back to the drawing board',
     'ball.?park',
@@ -21,10 +22,12 @@ var bullshitTerms = [
     'bandwidth',
     'benchmark',
     '(benefit|gap) analysis',
+    'bespoke',
     'best.of.breed',
     'best.practice',
     'big.data',
     'big picture',
+    'big thinkers?',
     'bottom line',
     'bottom.up',
     'brain.?storm',
@@ -318,6 +321,7 @@ var bullshitTerms = [
     'workflow',
     'workshop',
     'world.?class',
+    'world a better place', 
     'wow.factor',
 
     // technical bullshit
