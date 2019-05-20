@@ -3,7 +3,7 @@ var bullshitTerms = [
         '|subject|role|service|client|process|business)' +
         '.(centric(ity)?|facing|oriented|driven|focused|assessment|service)',
     '24/7',
-    'a-b testing',
+    'a[-/]b testing',
     'accessib(le|ility)',
     'acquisition',
     'action items?',
@@ -117,7 +117,7 @@ var bullshitTerms = [
     'game plan',
     'geo-behavioral'
     'go public',
-    'go to market',
+    'go.to.market',
     'goals?',
     'going forward',
     'google juice',
@@ -308,7 +308,7 @@ var bullshitTerms = [
     'unique approach',
     'values?',
     'valueable',
-    'value-added',
+    'value[- ]add(ed)?',
     'vertical market',
     'viral',
     'virtual(ization)?',
