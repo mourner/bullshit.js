@@ -23,6 +23,9 @@
   "eslintConfig": {
     "extends": "mourner"
   },
+  "files": [
+    "bullshit.js"
+  ],
   "devDependencies": {
     "findandreplacedomtext": "^0.4.6",
     "rollup": "^1.12.3",
