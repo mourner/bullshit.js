@@ -1,3 +1,6 @@
+import findAndReplaceDOMText from 'findandreplacedomtext';
+import bullshitTerms from './terms';
+
 function revealBullshit(term) {
 
     var c = term.charAt(0),

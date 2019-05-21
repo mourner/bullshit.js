@@ -1,0 +1,30 @@
+{
+  "name": "bullshit.js",
+  "version": "1.0.0",
+  "description": "Bullshit.js is a best-of-breed, mission-critical enterprise JavaScript bookmarklet that will empower you to evaluate the high impact of market-driven text on any Web resource, cultivating process-centric innovation and out-of-the-box thinking.",
+  "main": "bullshit.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mourner/bullshit.js.git"
+  },
+  "keywords": [
+    "bullshit"
+  ],
+  "author": "Vladimir Agafonkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mourner/bullshit.js/issues"
+  },
+  "homepage": "https://github.com/mourner/bullshit.js#readme",
+  "devDependencies": {
+    "findandreplacedomtext": "^0.4.6",
+    "rollup": "^1.12.3",
+    "rollup-plugin-commonjs": "^10.0.0",
+    "rollup-plugin-node-resolve": "^5.0.0",
+    "rollup-plugin-terser": "^4.0.4"
+  }
+}

@@ -1,4 +1,4 @@
-var bullshitTerms = [
+export default [
     '(market|goal|community|quality|results|sales|user|customer' +
         '|subject|role|service|client|process|business)' +
         '.(centric(ity)?|facing|oriented|driven|focused|assessment|service)',
@@ -115,7 +115,7 @@ var bullshitTerms = [
     'functional',
     'full benefit',
     'game plan',
-    'geo-behavioral'
+    'geo-behavioral',
     'go public',
     'go.to.market',
     'goals?',
@@ -321,7 +321,7 @@ var bullshitTerms = [
     'workflow',
     'workshop',
     'world.?class',
-    'world a better place', 
+    'world a better place',
     'wow.factor',
 
     // technical bullshit
