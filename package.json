@@ -1,11 +1,13 @@
 {
   "name": "bullshit.js",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Bullshit.js is a best-of-breed, mission-critical enterprise JavaScript bookmarklet that will empower you to evaluate the high impact of market-driven text on any Web resource, cultivating process-centric innovation and out-of-the-box thinking.",
   "main": "bullshit.js",
   "scripts": {
     "build": "rollup -c",
-    "test": "eslint src"
+    "start": "rollup -cw",
+    "test": "eslint src",
+    "prepublishOnly": "npm test && npm run build"
   },
   "repository": {
     "type": "git",
