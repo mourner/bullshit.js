@@ -82,6 +82,7 @@ export default [
     'delight',
     'deliverables?',
     'demographic',
+    'devops',
     'discovery',
     'distributed ledgers?',
     'disrupt(ive)?',
