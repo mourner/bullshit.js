@@ -30,14 +30,14 @@
   ],
   "devDependencies": {
     "findandreplacedomtext": "^0.4.6",
-    "rollup": "^1.12.3",
-    "rollup-plugin-commonjs": "^10.0.0",
-    "rollup-plugin-node-resolve": "^5.0.0",
-    "rollup-plugin-terser": "^4.0.4"
+    "rollup": "^1.23.1",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-terser": "^5.1.2"
   },
   "dependencies": {
-    "eslint": "^5.16.0",
+    "eslint": "^6.5.1",
     "eslint-config-mourner": "^3.0.0",
-    "rollup-plugin-buble": "^0.19.6"
+    "rollup-plugin-buble": "^0.19.8"
   }
 }
