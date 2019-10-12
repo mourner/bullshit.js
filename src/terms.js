@@ -202,6 +202,7 @@ export default [
     'new.breed',
     '(new|next|second).(level|gen|generation)',
     'niches?',
+    'ninja',
     'no-brainer',
     'non-traditional management',
     'objectives',
