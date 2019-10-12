@@ -17,7 +17,7 @@ export default [
     'assets?',
     'authoritative',
     'automated',
-    'augmented reality',
+    '(augmented|extended) reality',
     'award.winning',
     'b2b',
     'back to the drawing board',
