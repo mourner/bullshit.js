@@ -78,6 +78,7 @@ export default [
     'crowd.?(fund(s?|ed|ing)|sourc(ed|e|ing))',
     'customer obsession',
     'cutting.edge',
+    'cyber',
     'data mining',
     'de-dupe',
     'deep dive',
