@@ -2,6 +2,8 @@ export default [
     '(market|goal|community|quality|results|sales|user|customer' +
         '|subject|role|service|client|process|business)' +
         '.(centric(ity)?|facing|oriented|driven|focused|assessment|service|process)',
+    '(core|key)' + 'values',
+    '(uber|netflix|lyft|airbnb)'+ 'for',
     '24/7',
     'ai',
     'artificial intelligence',
@@ -50,6 +52,7 @@ export default [
     'change agents?',
     'circle the wagons',
     'cloud',
+    'cognit(ive|ion)',
     'collaborat(e|ion|ive)s?',
     'communicat(e|ion)s?',
     'compelling',
@@ -119,6 +122,7 @@ export default [
     'fault.tolerant',
     'first.to.market',
     'flexibility',
+    'focus'
     'foot view',
     'four pillars',
     'front lines',
@@ -237,6 +241,7 @@ export default [
     'push the envelope',
     'push.back',
     'productivity',
+    'qauntum',
     'quick wins?',
     'rais(e|ing) the bar',
     'ramp.up',
@@ -339,6 +344,7 @@ export default [
     'wearable',
     'web.enabled',
     'win-win',
+    'wisdom',
     'wisdom of crowds',
     'workflows?',
     'world.?class',
