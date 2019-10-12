@@ -4,6 +4,7 @@ export default [
         '.(centric(ity)?|facing|oriented|driven|focused|assessment|service|process)',
     '24/7',
     'ai',
+    'agile',
     'artificial intelligence',
     'autonomous',
     'a[-/]b testing',
