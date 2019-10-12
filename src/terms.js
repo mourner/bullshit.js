@@ -100,7 +100,7 @@ export default [
     'elevator pitch',
     'enabl(e|ing)',
     'emerging markets?',
-    'empower(ment)?',
+    'empower(ing|ment)?',
     'end of the day',
     'end.to.end',
     'engag(e|ing)',
