@@ -140,6 +140,7 @@ export default [
     'high.level',
     '(high|mass).impact',
     'hybrid environments?',
+    'holistic',
     'impactful',
     'impeccable',
     'in a nutshell',
