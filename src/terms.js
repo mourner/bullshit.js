@@ -291,6 +291,7 @@ export default [
     'segments?',
     'self-managed team',
     'seo',
+    'serverless',
     'shareholder value',
     'significant(ly)?',
     'single-source responsibility',
