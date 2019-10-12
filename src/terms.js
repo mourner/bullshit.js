@@ -75,6 +75,7 @@ export default [
     'crm',
     'cross.sell',
     'crowd.?(fund(s?|ed|ing)|sourc(ed|e|ing))',
+    'customer obsession',
     'cutting.edge',
     'data mining',
     'de-dupe',
