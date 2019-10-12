@@ -254,6 +254,7 @@ export default [
     'ramp.up',
     'relationship management',
     'responsive',
+    'rockstar',
     'engage(ments?)?',
     'reach out',
     'reactivation',
