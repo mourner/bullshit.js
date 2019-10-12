@@ -224,6 +224,7 @@ export default [
     'platforms?',
     'plug.?in',
     'potentials?',
+    'powerful',
     'prioritized?',
     'proactive',
     'problem space',
