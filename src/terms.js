@@ -75,6 +75,8 @@ export default [
     'cross.sell',
     'crowd.?(fund(s?|ed|ing)|sourc(ed|e|ing))',
     'cutting.edge',
+    'data-driven',
+    'data driven',
     'data mining',
     'de-dupe',
     'deep dive',
