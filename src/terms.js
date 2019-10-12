@@ -72,7 +72,7 @@ export default [
     'craftsmanship',
     'critical path',
     'crypto.currency',
-    'crypto(?!graphy).\w+',
+    'crypto(?!graphy).\\w+',
     'crm',
     'cross.sell',
     'crowd.?(fund(s?|ed|ing)|sourc(ed|e|ing))',
