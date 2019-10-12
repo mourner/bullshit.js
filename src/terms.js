@@ -248,6 +248,7 @@ export default [
     'real.time',
     'real.world',
     'reconfigure',
+    'redefin(e|(ing)?)',
     'red flags?',
     'reengineering',
     'reinvent(ing)? the(.square)? wheel',
