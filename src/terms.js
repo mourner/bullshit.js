@@ -296,6 +296,7 @@ export default [
     'story points?',
     'success(ful)?',
     'sustainab(le|ility)',
+    'sync',
     'synerg(y|ies|ized)',
     'tailwinds?',
     'take offline',
