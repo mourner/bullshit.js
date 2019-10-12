@@ -133,6 +133,7 @@ export default [
     'front lines',
     'functional',
     'full benefit',
+    'future proof',
     'game plan',
     'behavioral',
     'go public',
