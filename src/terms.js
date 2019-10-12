@@ -93,6 +93,8 @@ export default [
     'due dilligence',
     'dynamic',
     'e-?(business|commerce|tailers)',
+    'easily',
+    'easy',
     'ecosystems?',
     'efficien(t|cy)',
     'elaboration',
