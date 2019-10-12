@@ -265,6 +265,8 @@ export default [
     'rich',
     'road ?map',
     'robust',
+    'rock star',
+    'rockstar',
     'roi',
     'run the numbers',
     '(s|p)aas',
