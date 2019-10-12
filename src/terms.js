@@ -184,6 +184,7 @@ export default [
     'mind ?shower',
     'mindset',
     '(mission|time).critical',
+    'modern',
     'monetize',
     'mov(e|ing) (fast|forward)',
     'multitask(ing?)',
