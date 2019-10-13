@@ -283,6 +283,7 @@ export default [
     '(s|p)aas',
     'scal(e|es|ing|ability)',
     'high availability',
+    'scaleable',
     'scenarios?',
     'scope',
     'seamless',
