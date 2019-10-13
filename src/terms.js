@@ -100,7 +100,7 @@ export default [
     'drop.?in',
     'drop the ball',
     'due dilligence',
-    'dynamic',
+    'dynamic(s|ally)?',
     'e-?(business|commerce|tailers)',
     'easily',
     'easy',
