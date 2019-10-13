@@ -127,7 +127,7 @@ export default [
     'front lines',
     'functional',
     'full benefit',
-    'fully-patented',
+    'fully.patented',
     'game plan',
     'behavioral',
     'go public',
