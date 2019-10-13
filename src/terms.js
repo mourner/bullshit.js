@@ -197,6 +197,7 @@ export default [
     'market.ready',
     'marketing collateral',
     'maximi(s|z)e',
+    'meaningful( client | )interactions?',
     'measurements?',
     'methodolog(y|ies)',
     'metrics',
