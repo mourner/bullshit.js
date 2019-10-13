@@ -149,6 +149,7 @@ export default [
     'high.level',
     '(high|mass).impact',
     'hybrid environments?',
+    'hyperconverged',
     'holistic',
     'impactful',
     'impeccable',
