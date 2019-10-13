@@ -193,6 +193,7 @@ export default [
     'milestone',
     'mind ?share',
     'mind ?shower',
+    'mind-boggling',
     'mindset',
     '(mission|time).critical',
     'moneti(s|z)e',
