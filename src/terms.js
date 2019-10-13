@@ -13,6 +13,7 @@ export default [
     'advantages?',
     'aggregate',
     'accelerate',
+    'all.in.one',
     'analytics?',
     'application service providers?',
     'assets?',
