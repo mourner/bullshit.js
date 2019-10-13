@@ -1,6 +1,6 @@
 export default [
-    '(business|client|community|customer|data|market|goal|' +
-        'process|quality|results|role|sales|subject|service|user)' +
+    '(business|client|community|customer|data|market|goal' +
+        '|process|quality|results|role|sales|subject|service|user)' +
         '.(centric(ity)?|facing|oriented|driven|focused|assessment|service|process)',
     '24/7',
     'ai',
