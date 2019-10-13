@@ -60,6 +60,7 @@ export default [
     'communicat(e|ion)s?',
     'compelling',
     'competitive( advantage)?',
+    'connected systems?',
     'complex',
     'connect the dots',
     'containerizat(e|ion|ing)',
