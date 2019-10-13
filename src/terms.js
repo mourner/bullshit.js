@@ -267,6 +267,7 @@ export default [
     'reinvigorate',
     'relevance',
     'repurpose',
+    'resilien(ce|cy|t)',
     'resource allocation',
     'restructuring',
     'retention',
