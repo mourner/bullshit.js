@@ -272,7 +272,7 @@ export default [
     'rich',
     'road ?map',
     'robust',
-    'rock-solid',
+    'rock.solid',
     'roi',
     'run the numbers',
     '(s|p)aas',
