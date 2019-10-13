@@ -97,6 +97,7 @@ export default [
     'discovery',
     'distributed ledgers?',
     'disrupt(ive)?',
+    'dollar.productive',
     'downsi(s|z)e',
     'drill down',
     'drink the kool-aid',
