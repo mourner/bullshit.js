@@ -25,6 +25,7 @@ export default [
     'ball.?park',
     'band.aid',
     'bandwidth',
+    'beautiful',
     '(benefit|gap) analysis',
     'bespoke',
     'best.of.breed',
