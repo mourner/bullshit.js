@@ -6,6 +6,7 @@ export default [
     'ai',
     'agile',
     'artificial intelligence',
+    'at (your|their) fingertips',
     'autonomous',
     'a[-/]b testing',
     'acquisition',
