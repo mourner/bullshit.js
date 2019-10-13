@@ -302,7 +302,7 @@ export default [
     'strateg(y|ic|ize)',
     'streamlin(e|ing)',
     'story points?',
-    'Story telling',
+    'storytelling',
     'success(ful)?',
     'sustainab(le|ility)',
     'synerg(y|ies|ized)',
