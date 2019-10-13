@@ -261,6 +261,7 @@ export default [
     'real.time',
     'real.world',
     'reconfigure',
+    'redefin(e|ed|ing)',
     'red flags?',
     'reengineering',
     'reinvent(ing)? the(.square)? wheel',
