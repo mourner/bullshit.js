@@ -170,7 +170,7 @@ export default [
     'level playing field',
     'level set',
     'leverag(e|ing)',
-    'lightning-fast',
+    'lightning.fast',
     'low.hanging fruit',
     'look.(&|and).feel',
     'm2m',
