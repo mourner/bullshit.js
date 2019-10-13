@@ -83,6 +83,8 @@ export default [
     'customer obsession',
     'cutting.edge',
     'cyber',
+    'data driven',
+    'data oriented',
     'data mining',
     'de-dupe',
     'deep dive',
