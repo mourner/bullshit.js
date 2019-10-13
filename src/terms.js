@@ -174,6 +174,7 @@ export default [
     'leading',
     'leaders?',
     'leadership',
+    'learnings',
     'legacy',
     'lessons learned',
     'level playing field',
