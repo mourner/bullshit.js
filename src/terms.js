@@ -122,7 +122,7 @@ export default [
     'first.to.market',
     'flexibility',
     'foot view',
-    'format agnostic',
+    'format.agnostic',
     'four pillars',
     'front lines',
     'functional',
