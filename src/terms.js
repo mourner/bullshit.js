@@ -120,6 +120,7 @@ export default [
     'eta',
     'etched in stone',
     'exceed expectations',
+    'expedite',
     'experiences',
     'experts?',
     'expertise',
