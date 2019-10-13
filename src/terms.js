@@ -112,6 +112,7 @@ export default [
     'empower(ing|ment)?',
     'end of the day',
     'end.to.end',
+    'engulf',
     'engag(e|ing)',
     'enhanced?',
     'enterprise',
