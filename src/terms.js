@@ -303,6 +303,7 @@ export default [
     'significant(ly)?',
     'single-source responsibility',
     'skill ?sets?',
+    'smart(er)',
     'smoke (&|and) mirrors',
     'social(.media|.gaming|.networks?)',
     'solutions?',
