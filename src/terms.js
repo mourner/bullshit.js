@@ -1,5 +1,5 @@
 export default [
-    '(business|client|community|culture|customer|data|goal|market' +
+    '(business|client|community|culture|customer|data|goal|intelligence|market' +
         '|process|quality|results|role|sales|subject|service|user)' +
         '.(centric(ity)?|facing|oriented|driven|focused|assessment|service|process)',
     '24/7',
