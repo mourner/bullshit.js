@@ -374,5 +374,5 @@ export default [
     'world.?class',
     'world a better place',
     'wow.factor',
-‘Pushing on open doors’,
+    ‘Pushing on open doors’
 ];
