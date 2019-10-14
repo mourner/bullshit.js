@@ -192,7 +192,7 @@ export default [
     'intellectual property',
     'intuitive',
     'iot',
-    'key results?', 
+    'key results?',
     'knowledge.(base|transfer|sharing)',
     'KPIs?',
     'landing pages?',
