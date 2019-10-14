@@ -56,6 +56,7 @@ export default [
     'cloud',
     'collaborat(e|ion|ive)s?',
     'communicat(e|ion)s?',
+    'company-employee.fit',
     'compelling',
     'competitive( advantage)?',
     'complex',
