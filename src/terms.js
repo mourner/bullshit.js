@@ -97,6 +97,7 @@ export default [
     'delight',
     'deliverables?',
     'demographic',
+    'devops',
     'digital transformation',
     'discovery',
     'distributed ledgers?',
