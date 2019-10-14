@@ -138,7 +138,7 @@ export default [
     'full benefit',
     'game plan',
     'behavioral',
-    'global(ly)',
+    'global(ly)?',
     'go public',
     'go.to.market',
     'goals?',
