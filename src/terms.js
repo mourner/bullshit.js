@@ -259,6 +259,7 @@ export default [
     'push the envelope',
     'push.back',
     'productivity',
+    'pushing on open doors',
     'quick wins?',
     'rais(e|ing) the bar',
     'ramp.up',
@@ -373,6 +374,5 @@ export default [
     'workflows?',
     'world.?class',
     'world a better place',
-    'wow.factor',
-    ‘Pushing on open doors’
+    'wow.factor'
 ];
