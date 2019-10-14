@@ -138,6 +138,7 @@ export default [
     'front lines',
     'functional',
     'full benefit',
+    'game changer',
     'game plan',
     'behavioral',
     'go public',
