@@ -204,6 +204,7 @@ export default [
     'metrics',
     'middleware',
     'milestone',
+    'military-grade encryption',
     'mind ?share',
     'mind ?shower',
     'mind-boggling',
