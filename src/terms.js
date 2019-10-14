@@ -171,6 +171,7 @@ export default [
     'iot',
     'key results?', 
     'knowledge.(base|transfer|sharing)',
+    'KPIs?',
     'landing pages?',
     'lead the field',
     'leading',
