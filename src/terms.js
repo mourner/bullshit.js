@@ -328,7 +328,7 @@ export default [
     'state.of.the.art',
     'sticky-?ness',
     'strateg(y|ic|ize|ise)',
-    'streamlin(e|ing)',
+    'streamlin(ed|e|ing)',
     'story points?',
     'success(ful)?',
     'supercritical',
