@@ -196,6 +196,7 @@ export default [
     'measurements?',
     'methodolog(y|ies)',
     'metrics',
+    'microservice',
     'middleware',
     'milestone',
     'mind ?share',
