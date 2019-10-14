@@ -312,7 +312,7 @@ export default [
     'rich',
     'road ?map',
     'robust',
-    'rockstar( developers?)?',
+    'rock.?star',
     'roi',
     'run the numbers',
     '(s|p)aas',
