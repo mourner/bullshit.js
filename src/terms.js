@@ -336,7 +336,7 @@ export default [
     'single-source responsibility',
     'skill ?sets?',
     'smoke (&|and) mirrors',
-    'social(.media|.gaming|.networks?)',
+    'social(.media|.gaming|.networks?|.justice)',
     'solutions?',
     'sophisticated',
     'soup to nuts',
