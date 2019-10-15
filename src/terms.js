@@ -151,6 +151,7 @@ export default [
     'functional',
     'futurist',
     'full benefit',
+    'future.proof',
     'game changer',
     'game plan',
     'behavioral',
