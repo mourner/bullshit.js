@@ -91,6 +91,7 @@ export default [
     'cutting.edge',
     'cyber',
     'data mining',
+    'decentrali(s|z)ed',
     'de-?dupe',
     'deep dive',
     'deep learning',
