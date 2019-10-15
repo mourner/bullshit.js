@@ -391,6 +391,8 @@ export default [
     'values?',
     'valueable',
     'value.add(ed)?',
+    'venture',
+    'venturing',
     'vertical market',
     'viral',
     'virtual(ization|isation)?',
