@@ -16,6 +16,7 @@ export default [
     'accelerate',
     'all.in.one',
     'analytics?',
+    'any.\\w+',
     'application service providers?',
     'assets?',
     'authoritative',
@@ -138,6 +139,7 @@ export default [
     'experts?',
     'expertise',
     'exposure',
+    'extraordinary',
     'facilitat(e|or)',
     'fast track',
     'fault.tolerant',
@@ -229,6 +231,7 @@ export default [
     '(mission|time).critical',
     'ml',
     'moneti(s|z)e',
+    'more.\\w+',
     'mov(e|ing) (fast|forward)',
     'multitask(ing?)',
     'multifaceted',
@@ -410,5 +413,6 @@ export default [
     'workflows?',
     'world.?class',
     'world a better place',
-    'wow.factor'
+    'wow.factor',
+    'you\'ve never seen (a|an) \\w+',
 ];
