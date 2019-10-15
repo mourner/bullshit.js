@@ -24,6 +24,7 @@ export default [
     'extended reality',
     'award.winning',
     'b2b',
+    'b2c',
     'back to the drawing board',
     'ball.?park',
     'band.aid',
