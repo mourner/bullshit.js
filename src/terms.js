@@ -59,6 +59,7 @@ export default [
     'circle the wagons',
     'cloud',
     'collaborat(e|ion|ive)s?',
+    'committee',
     'communicat(e|ion)s?',
     'company-employee.fit',
     'compelling',
