@@ -60,9 +60,9 @@ export default [
     'challenges?',
     'change agents?',
     'circle the wagons',
-    'client-centered'.
-    'client-centric'.
-    'client-focused'.
+    'client-centered',
+    'client-centric',
+    'client-focused',
     'cloud',
     'cloudify',
     'collaborat(e|ion|ive)s?',
@@ -278,7 +278,7 @@ export default [
     'opportunit(y|ies)',
     'outperform',
     'optimal',
-    'orthogonal'
+    'orthogonal',
     'outstanding',
     'out(side)?.of.the.(box|loop)',
     'outsourc(e|ed|ing)',
