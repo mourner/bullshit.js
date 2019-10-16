@@ -149,6 +149,7 @@ export default [
     'facilitat(e|or)',
     'fast track',
     'fault.tolerant',
+    'feedback',
     'first.to.market',
     'flexibility',
     'foot view',
