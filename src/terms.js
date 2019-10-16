@@ -202,6 +202,7 @@ export default [
     'intuitive',
     'iot',
     'key results?',
+    'kickstart(er|ed)?s?',
     'knowledge.(base|transfer|sharing)',
     'kpis?',
     'landing pages?',
