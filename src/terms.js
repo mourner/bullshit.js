@@ -277,6 +277,7 @@ export default [
     'phased approach',
     'pipeline',
     'pioneers',
+    'pivot',
     'planning horizon',
     'platforms?',
     'plug.?in',
