@@ -270,6 +270,7 @@ export default [
     'paradigms?( shift)?',
     'partner(ships?)?',
     'patents?',
+    '(pay per click|ppc)',
     'performance indicators',
     'personaliz(e|ed|ation)',
     'perspective',
