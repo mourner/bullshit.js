@@ -446,4 +446,5 @@ export default [
     'world a better place',
     'wow.factor',
     'you\'ve never seen (a|an) \\w+',
+    'frustration[-\s]free',
 ];
