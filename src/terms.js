@@ -165,6 +165,7 @@ export default [
     'foot view',
     'four pillars',
     'front lines',
+    'frustration[- ]free',
     'functional',
     'futurist',
     'full benefit',
