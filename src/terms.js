@@ -161,6 +161,7 @@ export default [
     'foot view',
     'four pillars',
     'front lines',
+    'frustration[- ]free',
     'functional',
     'futurist',
     'full benefit',
@@ -446,5 +447,4 @@ export default [
     'world a better place',
     'wow.factor',
     'you\'ve never seen (a|an) \\w+',
-    'frustration[-\s]free',
 ];
