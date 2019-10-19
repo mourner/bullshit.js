@@ -195,6 +195,7 @@ export default [
     'hardball',
     'heavy.lifting',
     'herding cats',
+    'hidden.gem',
     'hidden.meaning',
     'high.level',
     '(high|mass).impact',
