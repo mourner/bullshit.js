@@ -390,6 +390,7 @@ export default [
     'sophisticated',
     'soup to nuts',
     'sow',
+    'spatial.computing',
     'stakeholders?',
     'start.up?',
     'statement of work',
