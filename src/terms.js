@@ -248,7 +248,7 @@ export default [
     'machine learning',
     'made simple',
     'magical',
-    'market (chang(er|ing)|leader|window)',
+    'market (chang(er|ing)|leader|window|simplified)',
     'market.ready',
     'marketing collateral',
     'maximi(s|z)e',
