@@ -394,6 +394,7 @@ export default [
     'start.up?',
     'statement of work',
     'state.of.the.art',
+    'step.changes?',
     'sticky-?ness',
     'strateg(y|ic|ize|ise)',
     'streamlin(ed|e|ing)',
