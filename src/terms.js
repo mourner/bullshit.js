@@ -229,7 +229,6 @@ export default [
     'intellectual property',
     'intuitive',
     'iot',
-    'k8s',
     'key results?',
     'kickstart(er|ed)?s?',
     'killjoy',
