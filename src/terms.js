@@ -199,6 +199,7 @@ export default [
     'hacker( mindset)?',
     'happiness manage(ment|rs?)',
     'hardball',
+    'hard work',
     'heavy.lifting',
     'herding cats',
     'hidden.gem',
