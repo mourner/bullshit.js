@@ -49,6 +49,7 @@ export default [
     'brain.?dump',
     'brand(s?|ing|ed)',
     'bright',
+    'building.trust',
     'bulletproof',
     'burn.rates?',
     'business( cases| plans)',
