@@ -3,7 +3,7 @@ export default [
         '|subject|role|service|client|process|business)' +
         '.(centric(ity)?|facing|oriented|driven|focused|assessment|service|process)',
     '(core|key) values',
-    '(uber|netflix|lyft|airbnb)'+ 'for',
+    '(uber|netflix|lyft|airbnb) for',
     '24/7',
     'ai',
     'artificial intelligence',
