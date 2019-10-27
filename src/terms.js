@@ -2,6 +2,7 @@ export default [
     '(business|client|community|culture|customer|data|goal|intelligence|market' +
         '|process|quality|results|role|sales|subject|service|user)' +
         '.(centric(ity)?|facing|oriented|driven|focused|assessment|service|process)',
+    '10x',
     '24/7',
     'ai',
     'agile',
@@ -45,6 +46,7 @@ export default [
     'big thinkers?',
     'block.?chain',
     'blazing(ly)? fast',
+    'boil the ocean',
     'bottom.line',
     'bottom.up',
     'boost(s|ing)?',
@@ -126,7 +128,7 @@ export default [
     'digital transformation',
     'discovery',
     'distributed ledgers?',
-    'disrupt(ive|tor)?',
+    'disrupt(ive|tor|ion)?',
     'dollar.productive',
     'downsi(s|z)e',
     'drill down',
@@ -297,6 +299,7 @@ export default [
     'on.premises?',
     'on the (back end|radar screen|same page|house)',
     'one to one',
+    'open the kimono',
     'opportunit(y|ies)',
     'outperform',
     'optimal',
