@@ -355,6 +355,7 @@ export default [
     'redefin(e|ed|ing)',
     'red flags?',
     'reengineering',
+    'reimagin(e|ed|ing)',
     'reinvent(ing)? the(.square)? wheel',
     'reinvigorate',
     'relevance',
