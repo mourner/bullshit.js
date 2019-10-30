@@ -328,6 +328,7 @@ export default [
     'proactive',
     'problem space',
     'processes',
+    'pro(fessional)?',
     'profit(ability)?',
     'promotion',
     'promotional collateral',
