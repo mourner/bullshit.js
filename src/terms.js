@@ -398,7 +398,7 @@ export default [
     'skill ?sets?',
     'smart(er)?',
     'smoke (&|and) mirrors',
-    'social(.media|.gaming|.networks?)',
+    'social(.media|.gaming|.good|.networks?)',
     'solidality',
     'solutions?',
     'sophisticated',
