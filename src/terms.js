@@ -372,6 +372,7 @@ export default [
     'reverse.engineer',
     'revisit',
     'revolution',
+    'reward(ing)?(.experience)?',
     'rich',
     'road ?map',
     'robust',
