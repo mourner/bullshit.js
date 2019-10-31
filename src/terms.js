@@ -218,6 +218,7 @@ export default [
     'hyper.personalization',
     'hyperconverged',
     'holistic',
+    'ideathon',
     'impactful',
     'impeccable',
     'in( |-)a( |-)nutshell',
