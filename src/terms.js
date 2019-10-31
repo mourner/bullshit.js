@@ -487,4 +487,6 @@ export default [
     'wow.factor',
     'you\'ve never seen (a|an) \\w+',
     'zeitgeist',
+    'spark of intelligence',
+    'TAM',
 ];
