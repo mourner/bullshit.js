@@ -483,6 +483,8 @@ export default [
     'workloads?',
     'workplaceless',
     'workspace',
+    'semantic',
+    'onto(logy|logical)',
     'world.?class',
     'world a better place',
     'wow.factor',
