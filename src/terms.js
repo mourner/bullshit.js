@@ -306,7 +306,7 @@ export default [
     'optimal',
     'orthogonal',
     'outstanding',
-    'out(side)?.of.the.(box|loop)',
+    'out(side)?.(of)?.the.(box|loop)',
     'outsourc(e|ed|ing)',
     '(total cost of )?ownership',
     'paradigms?( shift)?',
