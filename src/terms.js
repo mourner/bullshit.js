@@ -218,6 +218,7 @@ export default [
     'hybrid environments?',
     'hyper.personalization',
     'hyperconverged',
+    'hyperscal(e|ed|ing)',
     'holistic',
     'ideathon',
     'impactful',
