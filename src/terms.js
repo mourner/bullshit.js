@@ -126,6 +126,7 @@ export default [
     'deployless',
     'devops',
     'digital transformation',
+    'differentiation',
     'discovery',
     'distributed ledgers?',
     'disrupt(ive|tor|ion)?',
