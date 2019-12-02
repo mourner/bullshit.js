@@ -164,6 +164,8 @@ export default [
     'etched in stone',
     'evolution',
     'exceed expectations',
+    'excellent',
+    'exceptional',
     'exclusive(ly)?',
     'exhaustive',
     'expedite',
