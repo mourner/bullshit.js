@@ -243,7 +243,7 @@ export default [
     'internet[- ]of[- ]things',
     'intellectual property',
     'interactiv(e|ely)',
-    'intuitive',
+    'intuitiv(e|ely)',
     'iot',
     'key results?',
     'kickstart(er|ed)?s?',
