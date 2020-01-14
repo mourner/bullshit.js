@@ -73,7 +73,7 @@ export default [
     'client-focused',
     'cloud',
     'cloud native',
-    'cloudify',
+    'cloudif(y|ication)',
     'collaborat(e|ion|ive)s?',
     'comfort( zone)?',
     'committee',
