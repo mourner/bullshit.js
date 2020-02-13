@@ -9,6 +9,9 @@
     "test": "eslint src",
     "prepublishOnly": "npm test && npm run build"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mourner/bullshit.js.git"
