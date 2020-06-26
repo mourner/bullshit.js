@@ -447,6 +447,7 @@ export default [
     'teamwork',
     'technolog(y|ies)',
     'that being said',
+    'the award'
     'thought.leader',
     'throughput',
     'time.to.awesome',
