@@ -284,7 +284,7 @@ export default [
     'mindset',
     '(mission|time).critical',
     'ml',
-    'mobile(\s|-)first'
+    'mobile(\s|-)first',
     'moneti(s|z)e',
     'mov(e|ing) (fast|forward)',
     'multitask(ing?)',
