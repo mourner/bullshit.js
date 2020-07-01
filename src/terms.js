@@ -384,6 +384,7 @@ export default [
     'reverse.engineer',
     'revisit',
     'revolution',
+    'revolutionary',
     'reward(ing)?(.experience)?',
     'rich',
     'road ?map',
