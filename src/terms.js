@@ -324,6 +324,7 @@ export default [
     'patents?',
     'people.focus(ed|sed)',
     'performance indicators',
+    'performant',
     'personaliz(e|ed|ation)',
     'perspective',
     'phases?',
