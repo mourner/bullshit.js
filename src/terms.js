@@ -227,6 +227,7 @@ export default [
     'hyperscal(e|ed|ing)',
     'holistic',
     'ideathon',
+    'ideation',
     'impactful',
     'impeccable',
     'in( |-)a( |-)nutshell',
