@@ -161,6 +161,7 @@ export default [
     'estimate',
     'eta',
     'etched in stone',
+    'evangelist',
     'evolution',
     'exceed expectations',
     'exclusive(ly)?',
@@ -212,6 +213,7 @@ export default [
     'hidden.meaning',
     'high.level',
     '(high|mass).impact',
+    'high quality'
     'highly.scalable',
     'hive ?mind',
     'hybrid environments?',
@@ -486,6 +488,4 @@ export default [
     'wow.factor',
     'you\'ve never seen (a|an) \\w+',
     'zeitgeist',
-    'evangelist',
-    'high quality'
 ];
