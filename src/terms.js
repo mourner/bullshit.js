@@ -222,6 +222,7 @@ export default [
     'highly.scalable',
     'hive ?mind',
     'hybrid environments?',
+    'hyperautomation',
     'hyper.personalization',
     'hyperconverged',
     'hyperscal(e|ed|ing)',
