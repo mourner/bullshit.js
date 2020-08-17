@@ -213,7 +213,7 @@ export default [
     'hidden.meaning',
     'high.level',
     '(high|mass).impact',
-    'high quality'
+    'high quality',
     'highly.scalable',
     'hive ?mind',
     'hybrid environments?',
