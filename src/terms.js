@@ -412,6 +412,7 @@ export default [
     'secret sauce',
     'search engine optimization',
     'segments?',
+    'self.?guid(ed|ing|ance)',
     'self-managed team',
     'seo',
     '(serial )?entrepreneurs?',
