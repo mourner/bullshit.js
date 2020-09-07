@@ -274,6 +274,7 @@ export default [
     'magical',
     'market (chang(er|ing)|leader|window|simplified|fit)',
     'market.ready',
+    'marketing automation'
     'marketing collateral',
     'maximi(s|z)e',
     'meaningful( client | )interactions?',
