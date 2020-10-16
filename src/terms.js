@@ -143,6 +143,7 @@ export default [
     'early.stage',
     'eas(y|ily)',
     'ecosystem(s)?',
+    'edge.comput?(ed|ing)',
     'efficien(t|cy)',
     'effortless(ly)?',
     'elastic',
