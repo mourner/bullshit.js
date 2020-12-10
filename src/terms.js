@@ -228,7 +228,7 @@ export default [
     'hyperautomation',
     'hyper.personalization',
     'hyperconverged',
-    'hyperscal(e|ed|ing)',
+    'hyperscal(e|ed|er|ing)',
     'holistic',
     'ideathon',
     'ideation',
