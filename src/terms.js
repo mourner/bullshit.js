@@ -252,7 +252,6 @@ export default [
     'influx',
     'initiat(es?|ing|ives?)',
     'innovat(e|ed|ion|ive|ing|or)s?',
-    'in order',
     'inspir(e|ing|ation)',
     'insights?',
     'integrat(e|ed|ion)s?',
