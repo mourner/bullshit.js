@@ -457,7 +457,7 @@ export default [
     'sticky-?ness',
     'strateg(y|ic|ize|ise)',
     'streamlin(ed|e|ing)',
-    'strength(en(ing)?|s)?', 
+    'strength(en(ing)?|s)?',
     'story points?',
     'success(ful)?',
     'super(critical|star|nova)',
