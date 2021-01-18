@@ -140,7 +140,7 @@ export default [
     'downsi(s|z)e',
     'drill down',
     'drink the kool-aid',
-    'drive( out|s)?'.
+    'drive( out|s)?',
     'drop.?in',
     'drop the ball',
     'due dilligence',
