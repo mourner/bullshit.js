@@ -74,6 +74,7 @@ export default [
     'client-centric',
     'client-focused',
     'cloud',
+    'cloud(-| )based',
     'cloud native',
     'cloudif(y|ication)',
     'collaborat(e|ion|ive)s?',
