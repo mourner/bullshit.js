@@ -202,6 +202,7 @@ export default [
     'functional',
     'futurist',
     'full benefit',
+    'future[- ]facing',
     'future.proof',
     'game changer',
     'game plan',
