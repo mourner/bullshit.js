@@ -16,7 +16,7 @@ function revealBullshit({text}) {
         bullshit += 'ter';
     } else if (text.charAt(last - 3) !== ('o' || 'e') && text.substr(last - 2) === ('ors' || 'ers')) {
         bullshit += 'ters';
-    }    
+    }
 
     const abbr = document.createElement('abbr');
     abbr.style.color = 'red';
