@@ -350,7 +350,7 @@ export default [
     'phases?',
     'phased approach',
     'pipeline',
-    'pioneers',
+    'pioneers?',
     'pivot',
     'planning horizon',
     'platforms?',
