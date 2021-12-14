@@ -533,5 +533,6 @@ export default [
     'wow.factor',
     'you\'ve never seen (a|an) \\w+',
     'zeitgeist',
-    'zenith'
+    'zenith',
+    'quantum'
 ];
