@@ -299,7 +299,7 @@ export default [
     'maximi(s|z)e',
     'meaningful( client | )interactions?',
     'measurements?',
-    'merge(er)?',
+    'merger?',
     'metaverse',
     'methodolog(y|ies)',
     'metrics',
