@@ -49,7 +49,7 @@ export default [
     'billboard',
     'block.?chain',
     'blazing(ly)? fast',
-    'bleeding edge',
+    'bleeding.edge',
     'boil the ocean',
     'bottom.line',
     'bottom.up',
