@@ -242,7 +242,7 @@ export default [
     'hybrid environments?',
     'hyperautomation',
     'hyper.personalization',
-    'hyperconverged',
+    'hyper.?converged',
     'hyperlocal',
     'hyperscal(e|ed|er|ing)',
     'holistic',
