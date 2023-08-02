@@ -382,6 +382,7 @@ export default [
     'promotional collateral',
     'prominent',
     'promise',
+    'prompt[ -]engineer(ing)?',
     'proprietary',
     'proof.of.concept',
     'prove(n|d)?',
