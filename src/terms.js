@@ -313,6 +313,7 @@ export default [
     '(mission|time).critical',
     'miracle',
     'ml',
+    'momentum',
     'moneti(s|z)e',
     'mov(e|ing) (fast|forward)',
     'multitask(ing?)',
