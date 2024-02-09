@@ -479,6 +479,7 @@ export default [
     'streamlin(ed|e|ing)',
     'strength(en(ing)?|s)?',
     'story points?',
+    'storytelling',
     'success(ful)?',
     'super(critical|star|nova)',
     'sustainab(le|ility)',
