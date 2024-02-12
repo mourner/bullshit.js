@@ -233,6 +233,7 @@ export default [
     'hardball',
     'heavy.lifting',
     'herding cats',
+    'hero(es)?',
     'hidden.gem',
     'hidden.meaning',
     'high.level',
