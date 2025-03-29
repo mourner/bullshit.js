@@ -137,6 +137,7 @@ export default [
     'devops?',
     'dialog(ue?)s?',
     'digital transformation',
+    'digital twin',
     'differentiation',
     'discover(y|ed)?',
     'distributed ledgers?',
