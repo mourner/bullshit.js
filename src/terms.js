@@ -271,6 +271,8 @@ export default [
     'influx',
     'initiat(es?|ing|ives?)',
     'innovat(e|ed|ion|ive|ing|or)s?',
+    'intelligent',
+    'intelligence',
     'inspir(e|ing|ation)',
     'insights?',
     'integrat(e|ed|ion)s?',
