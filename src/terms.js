@@ -222,6 +222,7 @@ export default [
     'future.proof',
     'game changer',
     'game plan',
+    'gen(erative)?[- ]ai',
     'behavioral',
     'global(ly)?',
     'go public',
