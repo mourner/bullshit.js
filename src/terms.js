@@ -479,7 +479,7 @@ export default [
     'slim(ming)? down',
     'smart(er)?',
     'smoke (&|and) mirrors',
-    'social(.media|.gaming|.networks?)',
+    'social(.media|.gaming|.good|.networks?)',
     'solidality',
     'solutions?',
     'sophisticated',
