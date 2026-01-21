@@ -541,6 +541,7 @@ export default [
     'up.to.speed',
     'up-?sell',
     'upside',
+    '(up|down)time',
     'user.friendly',
     'user funnels?',
     'user.experience',
