@@ -314,6 +314,7 @@ export default [
     'metaverse',
     'methodolog(y|ies)',
     'metrics',
+    'microservice',
     'middleware',
     'milestone',
     'military.grade encryption',
