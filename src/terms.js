@@ -208,6 +208,9 @@ export default [
     'focus(es|ing)?',
     'foot view',
     'forward-thinking',
+    'free'
+    'operation'
+    'operation!'
     'fosters?',
     'four pillars',
     'freemium',
