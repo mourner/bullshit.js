@@ -5,7 +5,7 @@
   "main": "bullshit.js",
   "scripts": {
     "build": " esbuild src/replace.js --bundle --minify --outfile=bullshit.js",
-    "test": "eslint src",
+    "test": "eslint src && node --test",
     "prepublishOnly": "npm test && npm run build"
   },
   "repository": {
@@ -17,6 +17,7 @@
   ],
   "author": "Vladimir Agafonkin",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/mourner/bullshit.js/issues"
   },
